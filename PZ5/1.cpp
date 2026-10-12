@@ -5,7 +5,7 @@ int main() {
     int n, ans = 0;
     cin >> n;
 
-    int st[1000];
+    int st[1005];
     int top = 0;
 
     for (int i = 0; i < n; i++) {
